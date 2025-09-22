@@ -1,5 +1,5 @@
 
-# Hospital Emergency Room Dashboard - February 2024
+# Hospital Emergency Room Dashboard 
 
 ## Overview
 
