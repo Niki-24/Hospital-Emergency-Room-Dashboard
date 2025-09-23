@@ -83,7 +83,6 @@ This dashboard is intended for hospital administrators and ER staff to:
 - Optimize resource allocation based on peak hours and patient volume.
 - Evaluate referral patterns to improve inter-departmental coordination.
 
---- 
  ## Image 
  
 ![dashboard1](https://github.com/user-attachments/assets/c416faa5-50dd-435d-ac4d-5dbc62b4bb1f)
